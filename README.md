@@ -1,2 +1,0 @@
-#Dynamic_Histogram
-
